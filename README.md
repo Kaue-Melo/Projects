@@ -1,4 +1,4 @@
-# Projects
+# Refinamento de Catálogo
 Criei esse script para agilizar o trabalho manual com conferência da escrita em descrição de produtos recebidos por terceiro. A ideia é que ele passa por diversas palavras sortidas em um dicionário privado e corrigiria casos como:
 
 acai > Açaí
